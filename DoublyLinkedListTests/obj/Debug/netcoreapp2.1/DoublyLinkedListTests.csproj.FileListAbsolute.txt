@@ -1,0 +1,17 @@
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\obj\Debug\netcoreapp2.1\DoublyLinkedListTests.csprojAssemblyReference.cache
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\obj\Debug\netcoreapp2.1\DoublyLinkedListTests.csproj.CoreCompileInputs.cache
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\obj\Debug\netcoreapp2.1\DoublyLinkedListTests.AssemblyInfoInputs.cache
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\obj\Debug\netcoreapp2.1\DoublyLinkedListTests.AssemblyInfo.cs
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\bin\Debug\netcoreapp2.1\DoublyLinkedListTests.deps.json
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\bin\Debug\netcoreapp2.1\DoublyLinkedListTests.runtimeconfig.json
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\bin\Debug\netcoreapp2.1\DoublyLinkedListTests.runtimeconfig.dev.json
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\bin\Debug\netcoreapp2.1\DoublyLinkedListTests.dll
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\bin\Debug\netcoreapp2.1\DoublyLinkedListTests.pdb
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\bin\Debug\netcoreapp2.1\LinkedList.dll
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\bin\Debug\netcoreapp2.1\LinkedList.pdb
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\obj\Debug\netcoreapp2.1\DoublyLinkedListTests.csproj.CopyComplete
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\obj\Debug\netcoreapp2.1\DoublyLinkedListTests.dll
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\DoublyLinkedListTests\obj\Debug\netcoreapp2.1\DoublyLinkedListTests.pdb

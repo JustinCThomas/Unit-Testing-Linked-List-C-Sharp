@@ -1,0 +1,11 @@
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.deps.json
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.runtimeconfig.json
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.runtimeconfig.dev.json
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.dll
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.pdb
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.csprojAssemblyReference.cache
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.AssemblyInfoInputs.cache
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.AssemblyInfo.cs
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.dll
+C:\Users\v-justth\source\repos\JustinCThomas\LinkedList\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.pdb
